@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>eatlivr</name>
+    <displayName><![CDATA[EAT&#039;LIVRE]]></displayName>
+    <version><![CDATA[1.0.3]]></version>
+    <description><![CDATA[Faites appara&icirc;tre une popup d&egrave;s que vos visiteurs s&rsquo;appr&ecirc;tent &agrave; ajouter un produit sur votre site, et incitez-les &agrave; choissir leur mode de transport ! Gr&acirc;ce au module EATLIVRE]]></description>
+    <author><![CDATA[M.B By COMFORYOU]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes vous sur de vouloir desinstaller ce module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
